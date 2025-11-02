@@ -110,8 +110,8 @@ export default function ReFrostHero() {
             </h1>
 
             <p className="text-lg text-slate-600 max-w-md leading-relaxed">
-              End-to-end temperature security for critical shipments, powered by
-              intelligent sensors and real-time alerts.
+              Cold Chain Intelligence that sees every risk and predicts every
+              threat.
             </p>
 
             <div className="flex gap-4 pt-2">
